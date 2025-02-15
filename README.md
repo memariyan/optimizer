@@ -12,7 +12,7 @@ The **Optimizer** project is designed to solve complex optimization problems, su
 - Supports asynchronous task processing.
 
 ## Architecture
-![Optimizer Architecture](https://raw.githubusercontent.com/memariyan/optimizer/main/docs/architecture.png)
+![Optimizer Architecture]([https://raw.githubusercontent.com/memariyan/optimizer/main/docs/architecture.png](https://github.com/memariyan/optimizer/blob/main/architecture.png))
 
 ### Workflow
 1. **Flow Management** sends a message to Kafka.
