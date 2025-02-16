@@ -1,4 +1,4 @@
-# Optimizer
+# Routing & VRP Optimizer
 
 ## Overview
 The **Optimizer** project is designed to solve complex optimization problems, such as the Vehicle Routing Problem (VRP). It leverages multiple libraries, including Google OR-Tools, and custom algorithms to achieve efficient solutions. The project integrates with external services and follows a distributed architecture using Kafka and MongoDB.
